@@ -1,0 +1,10 @@
+Film Listesi Sayfası --> Bu sayfada filmler listelenir, silinir, güncellenir ve filtrelenir.
+Film Ekle Sayfası --> Bu sayfada film eklenir.
+
+
+Tbl_FilmTablosu ve Tbl_SinemaTablosu adında iki tablom var. Film Tablosunda ki "CinemaNameID" ile Sinema Tablosunda ki
+"CinemaID"yi birbiri ile ilişkilendirdim. Bu sayede Film Ekle sayfasında aldığım salon numarası bilgisi bana otomatik olarak
+salonun adı olarak geliyor.
+
+
+Filtreleme kısmında ise birden fazla parametre var yüzlerce filtreleme yapılabilir.
