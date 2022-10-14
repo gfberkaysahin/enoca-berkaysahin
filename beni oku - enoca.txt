@@ -6,6 +6,10 @@ Tbl_FilmTablosu ve Tbl_SinemaTablosu adında iki tablom var. Film Tablosunda ki 
 "CinemaID"yi birbiri ile ilişkilendirdim. Bu sayede Film Ekle sayfasında aldığım salon numarası bilgisi bana otomatik olarak
 salonun adı olarak geliyor.
 
+Güncelle'ye tıklandıldığında otomatik olarak tıklanılan filmin tüm bilgileri otomatik getiriliyor.
+
+Ekle sayfasında ise tüm bilgiler doldurulduktan sonra ekle'ye basıldığında salon numarısında otomatik olarak veri tabanında o numaraya karşılık gelen salon adıyla eşleştirip listeliyor.
+
 
 Filtreleme kısmında ise birden fazla parametre var yüzlerce filtreleme yapılabilir.
 
