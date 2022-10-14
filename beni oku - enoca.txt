@@ -8,3 +8,5 @@ salonun adı olarak geliyor.
 
 
 Filtreleme kısmında ise birden fazla parametre var yüzlerce filtreleme yapılabilir.
+
+SQL bağlantısı - DataAccesLayer - baglanti kısmındadır.
